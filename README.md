@@ -1,4 +1,4 @@
-Ships in 45 minutes for $0.
+cost $0.
 
 
 Frontend: React + Vite on Vercel. 
