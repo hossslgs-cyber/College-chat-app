@@ -1,4 +1,4 @@
-COST $0.
+WEB-APP COSTING $0
 FRONTEND: React + Vite on Vercel.
  BACKEND: Node.js + Express + Socket.io on Render. 
 DATABASE: MongoDB Atlas M0. AUTHENTICATION: Clerk.
